@@ -1,0 +1,8 @@
+# Working sites
+https://google.com
+https://example.com
+https://httpbin.org
+
+# Intentional errors
+https://thisdoesnotexist.tld
+https://expired.badssl.com
